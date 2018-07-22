@@ -11,6 +11,9 @@ The Titanic challenge on Kaggle is a competition in which the task is to predict
 
 Competition can be found [here](https://www.kaggle.com/c/titanic)
 
+To see the notebook without any installation can be found [here](https://nbviewer.jupyter.org/github/rohith28/Titanic_Kaggle/blob/master/Titanic_Disaster_prediction.ipynb)
+
+
 ### Installation
 
 1. Install Anaconda from official [website](https://www.anaconda.com/download/#macos)
@@ -60,5 +63,3 @@ Choice of our models can be :
 ### Valuation 
  Valuating the all the models and testing the models with test set. And tuning the parameters to acheive best result.
  
- 
-To see the notebook without any installation can be found [here](https://nbviewer.jupyter.org/github/rohith28/Titanic_Kaggle/blob/master/Titanic_Disaster_prediction.ipynb)
