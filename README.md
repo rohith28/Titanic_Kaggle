@@ -61,3 +61,4 @@ Choice of our models can be :
  Valuating the all the models and testing the models with test set. And tuning the parameters to acheive best result.
  
  
+To see the notebook without any installation can be found [here](https://nbviewer.jupyter.org/github/rohith28/Titanic_Kaggle/blob/master/Titanic_Disaster_prediction.ipynb)
